@@ -1,2 +1,4 @@
+var = "7"
+
 def test():
-    pass
+    assert var == "he"
